@@ -90,8 +90,8 @@ export default function Hero() {
       </motion.p>
 
       <motion.p className="hero-desc" variants={fade} custom={2} initial="hidden" animate="show">
-        Main <strong>{profile.name}</strong> — AI Engineer & CS student. Autonomous agents,
-        automation pipelines aur workflow systems banata hoon. Filhaal AI Engineering Intern
+        I'm <strong>{profile.name}</strong> — an AI Engineer & CS student. I build autonomous agents,
+        automation pipelines and intelligent workflow systems. Currently an AI Engineering Intern
         @ <strong>DigiRocket Technologies</strong>.
       </motion.p>
 

@@ -42,8 +42,8 @@ export default function About() {
 
         <motion.div className="about-side" variants={reveal} custom={1} initial="hidden" whileInView="show" viewport={{ once: true }}>
           <p>
-            Aspiring AI Engineer & B.Tech CSE student at Mewar University. LangChain, LangGraph
-            aur MCP se autonomous agents banata hoon, aur n8n se workflows automate karta hoon.
+            Aspiring AI Engineer & B.Tech CSE student at Mewar University. I build autonomous
+            agents with LangChain, LangGraph and MCP, and automate workflows using n8n.
           </p>
           <div className="about-now">
             <span className="dot" />

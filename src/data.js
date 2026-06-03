@@ -25,7 +25,7 @@ export const stats = [
 ]
 
 export const timeline = [
-  { year: '2022', title: 'B.Tech CSE — Mewar University', desc: 'Computer Science journey shuru.' },
+  { year: '2022', title: 'B.Tech CSE — Mewar University', desc: 'Started my Computer Science journey.' },
   { year: '2024', title: 'Web Design Training — CTTC, Bhubaneswar', desc: 'HTML, CSS, JS & responsive design.' },
   { year: '2025', title: 'Workflow Automation Platform', desc: 'n8n + Pinecone + Grok API.' },
   { year: '2026', title: 'AI Engineer Intern + MailMinto launch', desc: 'Agentic AI products in production.' },
@@ -69,14 +69,14 @@ export const projects = [
   {
     no: '05',
     title: 'AI Email Operations Agent',
-    desc: 'n8n + OpenAI system — new emails ko 5 categories me classify karke real actions leta hai: auto-reply, draft, summary aur Telegram notifications.',
+    desc: 'An n8n + OpenAI system that classifies new emails into 5 categories and takes real actions: auto-replies, drafts, summaries and Telegram notifications.',
     tags: ['n8n', 'GPT-4.1', 'LangChain', 'Telegram'],
     link: 'https://github.com/Ritik-git-In/Email_AI_Agent_Auto_reply_n8n',
   },
   {
     no: '06',
     title: 'React Responsive Navbar',
-    desc: 'Modern, fully responsive React navbar (DigiRocket style) — dropdown menus, mobile hamburger, smooth animations aur clean dark UI.',
+    desc: 'Modern, fully responsive React navbar (DigiRocket style) — dropdown menus, mobile hamburger, smooth animations and a clean dark UI.',
     tags: ['React', 'JavaScript', 'CSS'],
     link: 'https://github.com/Ritik-git-In/ai-chatbot-ui',
   },
