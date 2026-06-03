@@ -86,6 +86,7 @@ export const skills = [
   { name: 'Python & AI Agents', level: 90 },
   { name: 'LangChain / LangGraph / MCP', level: 85 },
   { name: 'Prompt Engineering & RAG', level: 88 },
+  { name: 'Hugging Face & Transformers', level: 80 },
   { name: 'n8n & Workflow Automation', level: 90 },
   { name: 'Frontend — React, JS, Tailwind', level: 75 },
 ]

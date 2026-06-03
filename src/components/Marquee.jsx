@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 
 const items = [
-  'LangChain', 'LangGraph', 'OpenAI', 'n8n', 'Python', 'RAG',
+  'LangChain', 'LangGraph', 'OpenAI', 'Hugging Face', 'n8n', 'Python', 'RAG',
   'MCP', 'FastAPI', 'Prompt Engineering', 'Next.js', 'React', 'AI Agents',
 ]
 
