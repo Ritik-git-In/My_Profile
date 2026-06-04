@@ -6,7 +6,8 @@ const links = [
   { id: 'about', no: '01', label: 'About' },
   { id: 'projects', no: '02', label: 'Work' },
   { id: 'achievements', no: '03', label: 'Skills' },
-  { id: 'contact', no: '04', label: 'Contact' },
+  { id: 'certificates', no: '04', label: 'Certificates' },
+  { id: 'contact', no: '05', label: 'Contact' },
 ]
 
 export default function Navbar() {

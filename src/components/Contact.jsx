@@ -11,7 +11,7 @@ export default function Contact() {
   return (
     <section id="contact" className="section contact">
       <motion.div className="sec-label" variants={reveal} initial="hidden" whileInView="show" viewport={{ once: true }}>
-        <span>04</span> Contact
+        <span>05</span> Contact
       </motion.div>
 
       <motion.h2 className="contact-title" variants={reveal} custom={1} initial="hidden" whileInView="show" viewport={{ once: true }}>

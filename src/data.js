@@ -98,3 +98,27 @@ export const achievements = [
   { icon: '📜', title: 'Web Design Training — CTTC', desc: 'Frontend & responsive web design.' },
   { icon: '🚀', title: 'Built MailMinto (Early Beta)', desc: 'End-to-end AI email product.' },
 ]
+
+export const certificates = [
+  {
+    img: '/certificates/cttc-certificate.jpeg',
+    title: 'Web Designing',
+    issuer: 'CTTC, Bhubaneswar · Govt. of India (MSME)',
+    year: '2024',
+    note: 'HTML · CSS · JavaScript · Bootstrap',
+  },
+  {
+    img: '/certificates/cttc-training.png',
+    title: 'Web Design & Development Training',
+    issuer: 'CTTC, Bhubaneswar',
+    year: '2024',
+    note: 'Industrial training · May–June 2024',
+  },
+  {
+    img: '/certificates/rscit.png',
+    title: 'RS-CIT',
+    issuer: 'Vardhman Mahaveer Open University, Kota',
+    year: '2021',
+    note: 'Rajasthan State Certificate in IT · 72%',
+  },
+]

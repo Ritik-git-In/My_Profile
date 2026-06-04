@@ -9,6 +9,7 @@ import Marquee from './components/Marquee'
 import About from './components/About'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
+import Certificates from './components/Certificates'
 import Contact from './components/Contact'
 
 export default function App() {
@@ -35,6 +36,7 @@ export default function App() {
             <About />
             <Projects />
             <Skills />
+            <Certificates />
             <Contact />
           </main>
           <footer className="footer">
