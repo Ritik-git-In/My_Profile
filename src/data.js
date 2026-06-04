@@ -64,7 +64,8 @@ export const projects = [
     title: 'MailMinto',
     desc: 'AI-powered email automation platform — classifies emails, drafts smart replies, applies Gmail labels & sends Telegram alerts. Full BYOK + AES-256 encryption.',
     tags: ['Next.js', 'Supabase', 'Gmail API', 'OpenAI'],
-    link: 'https://github.com/Ritik-git-In/MailMinto',
+    link: 'https://mail-minto.vercel.app',
+    live: true,
   },
   {
     no: '05',
