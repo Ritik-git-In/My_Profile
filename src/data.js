@@ -20,7 +20,7 @@ export const typedRoles = [
 export const stats = [
   { value: 6, suffix: '+', label: 'Projects Shipped' },
   { value: 12, suffix: '+', label: 'Technologies' },
-  { static: '7.23', label: 'B.Tech CGPA' },
+  { static: '7.8', label: 'B.Tech CGPA' },
   { static: '2026', label: 'Graduating' },
 ]
 
@@ -94,7 +94,7 @@ export const skills = [
 
 export const achievements = [
   { icon: '💼', title: 'AI Engineer Intern @ DigiRocket', desc: 'Autonomous agents & automation, Jan–Jul 2026.' },
-  { icon: '🎓', title: 'B.Tech CSE — 7.23 CGPA', desc: 'Mewar University, 2022–2026.' },
+  { icon: '🎓', title: 'B.Tech CSE — 7.8 CGPA', desc: 'Mewar University, 2022–2026.' },
   { icon: '📜', title: 'Web Design Training — CTTC', desc: 'Frontend & responsive web design.' },
   { icon: '🚀', title: 'Built MailMinto (Early Beta)', desc: 'End-to-end AI email product.' },
 ]
