@@ -18,7 +18,7 @@ export const typedRoles = [
 ]
 
 export const stats = [
-  { value: 6, suffix: '+', label: 'Projects Shipped' },
+  { value: 7, suffix: '+', label: 'Projects Shipped' },
   { value: 12, suffix: '+', label: 'Technologies' },
   { static: '7.8', label: 'B.Tech CGPA' },
   { static: '2026', label: 'Graduating' },
@@ -61,6 +61,14 @@ export const projects = [
   },
   {
     no: '04',
+    title: 'PDF RAG Assistant',
+    desc: 'A RAG-based AI chatbot — upload your PDFs and ask anything. It answers only from your documents and cites the exact source (file + page number), so no made-up answers. PDFs stay private on your machine; only the question and relevant snippets reach the LLM.',
+    tags: ['Streamlit', 'RAG', 'ChromaDB', 'Kimi LLM'],
+    link: 'https://rag-document-qa-bot-ztsz.onrender.com',
+    live: true,
+  },
+  {
+    no: '05',
     title: 'MailMinto',
     desc: 'AI-powered email automation platform — classifies emails, drafts smart replies, applies Gmail labels & sends Telegram alerts. Full BYOK + AES-256 encryption.',
     tags: ['Next.js', 'Supabase', 'Gmail API', 'OpenAI'],
@@ -68,14 +76,14 @@ export const projects = [
     live: true,
   },
   {
-    no: '05',
+    no: '06',
     title: 'AI Email Operations Agent',
     desc: 'An n8n + OpenAI system that classifies new emails into 5 categories and takes real actions: auto-replies, drafts, summaries and Telegram notifications.',
     tags: ['n8n', 'GPT-4.1', 'LangChain', 'Telegram'],
     link: 'https://github.com/Ritik-git-In/Email_AI_Agent_Auto_reply_n8n',
   },
   {
-    no: '06',
+    no: '07',
     title: 'React Responsive Navbar',
     desc: 'Modern, fully responsive React navbar (DigiRocket style) — dropdown menus, mobile hamburger, smooth animations and a clean dark UI.',
     tags: ['React', 'JavaScript', 'CSS'],
